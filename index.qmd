@@ -662,9 +662,9 @@ Ergänzende Note:
 
 ::: 
 
-## Weitere Befunde zur Effektstärkenkommunikation {.smaller .scrollable}
+## Diskussion: Weitere Befunde zur Effektstärkenkommunikation {{< iconify boxicons:discussion >}} {.smaller .scrollable}
 
-- Lehrpersonen differenzieren zwischen kleinen und großen Effektstärken [@merk2023; @kuhlwein2025]
+- Lehrpersonen differenzieren zwischen kleinen und großen Effektstärken [@merk2023; @kuhlwein2024]
 - Mit geeigneten Visualisierungen schätzen Lehrpersonen Effektgrößen erstaunlich akkurat ein (Darstellung von Streuung [@merk2023]; Annotationen [@schneider2024]) 
 - __Text und Bild scheinen komplementäre Vor- und Nachteile zu haben__: Lehrpersonen nehmen Cohen's U3-Formulierungen beispielsweise informativer wahr, schätzen aber visuelle Effektstärkendarstellung (Halfeye-Plots) genauer ein [@kuhlwein2025]
 
@@ -692,7 +692,7 @@ Zusatz:
 - Overlap etwas weniger Bias, aber immer noch gebiased
 ::: 
 
-## Fazit {{< iconify boxicons:discussion >}}
+## Diskussion: Limitation {{< iconify boxicons:discussion >}}
 
 * Interpretation eine notwendige, aber nicht hinreichende Bedingung für gelingendes evidenzinformiertes Handeln {{< iconify fluent:puzzle-cube-piece-20-filled size=50px >}}
 
