@@ -2,7 +2,7 @@
 title: Wie gehen (angehende) Lehrpersonen mit wissenschaftlicher Evidenz um?
 subtitle: Ergebnisse aus verschiedenen experimentellen Studien
 author: Dr. Kirstin Schmidt
-footer: https:ADDLINK
+footer: https://kirstinschmidt.github.io/InB-Kolloquium/
 institute: Pädagogische Hochschule Karlsruhe | <br> Institut für Empirische Bildungsforschung
 logo: img/ph-logo.svg
 picture: img/KA.jpeg
