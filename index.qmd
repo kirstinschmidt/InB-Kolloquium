@@ -104,11 +104,13 @@ title-slide-attributes:
 ::: notes
 
 - diese Festlegung kann beispielsweise kognitionspsychologisch begründet werden
-  + Evidenz ist im Vergleich zur eigenen Erfahrungen als objektivere Informationsquelle anzusehen -> Information wird systematisch nach bestimmten Kriterien gewonnen und ist dadurch weniger von kognitive Verzerrungen beeinflusst und eignet sich daher um fundierte Entscheidungen zu treffen 
+  + Information wird systematisch nach bestimmten Kriterien gewonnen und ist dadurch weniger von kognitive Verzerrungen beeinflusst und eignet sich daher um fundierte Entscheidungen zu treffen 
 
+<!--
 - Kompetenztheoretische Begründung
  +  Kenntnisse wissenschaftlicher Theorien und Befunde ist Voraussetzung für erfolgreichen Unterricht (z.B. Baumert & Kunter, 2006)
- + Diese Perspektive hat u.a. Eingang in die Standards zur Lehrerbildung gefunden (KMK, 2004, S. 289): »Lehrerinnen und Lehrer \[...\] nutzen Ergebnisse der Bildungsforschung für die eigene Tätigkeit«
+ + Diese Perspektive hat u.a. Eingang in die Standards zur Lehrerbildung gefunden (KMK, 2004, S. 289): »Lehrerinnen und Lehrer \[...\] nutzen Ergebnisse der Bildungsforschung für die eigene Tätigkeit« 
+--> 
 - Evidenz wird daher Potenzial zugeschrieben
   + Professionalisierung von Lehrpersonen zu stärken
   + Unterrichts- und Schulqualität
@@ -135,11 +137,7 @@ title-slide-attributes:
 ::: notes
 
 - um evidenzinformiert zu handeln, müssen L. allerdrings einen komplexen Prozess durchlaufen
-  + Anlass formulieren z.B. ein Problem, eine Weiterentwicklung
-  + Zugriffsphase passende wissenschaftliche Quellen recherchieren
-  + Evidenz sichten d.h. lesen und verstehen um in Schlussfolgerung zu Wissen zu kommen
-  + Wissen in der Anwendungsphase für die Praxis fruchtbar machen d.h. nutzen
-  + im Idealfall schließt sich noch eine Evaluation des Prozesses an
+  + Anlass über Recherche hin zum Verstehen und Anwenden
 
 - wie Sie sicherlich wissen: gibt es aber eine Kluft zwischen diesen theoretischen Implikationen und der tatsächlichen Praxis
 - Lehrpersonen greifen kaum auf Evidenz in ihrem professionellen Handeln zurück
@@ -168,6 +166,8 @@ title-slide-attributes:
 
 :::
 
+<!--
+
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
 
 
@@ -185,6 +185,7 @@ title-slide-attributes:
 :::
 
 
+
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
 
 
@@ -200,6 +201,7 @@ title-slide-attributes:
 
 :::
 
+--> 
 
 ## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
 
@@ -233,7 +235,6 @@ title-slide-attributes:
   + beeinflusst aber auch Schlussfolgerungs- und Anwendungsphase
 
 
-- sehr viel unterschiedliche Forschungsansätze in diesem Bereich 
 - zoomt man aus diesem Prozess heraus kann man diese verschiedenen Einflussfaktoren auch auf einer Metaebene systematisieren
 
 - die Katalysatoren und Barrieren können auch ...
@@ -297,7 +298,7 @@ title-slide-attributes:
 
 :::
 
-## Bestätigungsfehler {.smaller}
+## Bestätigungsfehler {{< iconify mdi:head-thinking-outline >}}{.smaller}
 
 <!-- &#x2011; ist der "no linebreak hyphen" - sonst bleibt nur das Minus in der Zeile -->
 
@@ -333,7 +334,7 @@ title-slide-attributes:
   
 ::: 
 
-## Forschungsfragen {.smaller}
+## Forschungsfragen {{< iconify fa6-solid circle-question >}} {.smaller}
 
 **Forschungsfrage 1:** Inwieweit beeinflusst die (In)Kongruenz zwischen Überzeugungen und Evidenz Lehramtsstudierende in ihrer Bewertung von Studienergebnissen?
 
@@ -368,7 +369,7 @@ title-slide-attributes:
 
 ::: 
 
-## Design, Materialien und Variablen {.smaller .scrollable}
+## Design, Materialien und Variablen {{< iconify ri:survey-line >}} {.smaller .scrollable}
 
 - Between-person Design mit dem 2-stufigen Experimentalfaktor *(In)kongruenz zwischen Überzeugung und Evidenz*
 
@@ -399,7 +400,7 @@ title-slide-attributes:
 
 ::: 
 
-## Ergebnisse: Beurteilung der Studie
+## Ergebnisse: Beurteilung der Studie {{< iconify streamline-sharp:magnifying-glass >}}
 
 <center>![](img/ConfBias-Abbildung_1.png){.lightbox}</center>
 
@@ -415,7 +416,7 @@ title-slide-attributes:
 
 ::: 
 
-## Ergebnisse: Updating der Überzeugungsrichtung
+## Ergebnisse: Updating der Überzeugungsrichtung {{< iconify streamline-sharp:magnifying-glass>}}
 
 <center>![](img/ConfBias-Abbildung_2.png){.lightbox}</center>
 
@@ -432,7 +433,7 @@ title-slide-attributes:
 
 :::
 
-## Ergebnisse: Updating Überzeugungssicherheit {.smaller}
+## Ergebnisse: Updating Überzeugungssicherheit {{< iconify streamline-sharp:magnifying-glass >}}  {.smaller}
 
 <center>![](img/ConfBias-Abbildung_3a.png){.lightbox width="800"}</center>
 
@@ -448,7 +449,7 @@ title-slide-attributes:
 :::
 
 
-## Zentrale Erkenntnisse
+## Zentrale Erkenntnisse {{< iconify majesticons:lightbulb-shine-line >}}
 
 - Lehramtsstudierende beurteilen wissenschaftliche Evidenz basierend auf ihren Überzeugungen
 - Lehramtsstudierende, die überzeugungsinkongruente Evidenz lesen, passen nicht ihre Überzeugungsrichtung, aber ihre Überzeugungssicherheit an
@@ -500,7 +501,7 @@ title-slide-attributes:
 ::: 
 
 
-## Kommunikation von Forschungsergebnissen {.smaller .scrollable}
+## Kommunikation von Forschungsergebnissen {{< iconify stash:search-results >}} {.smaller .scrollable}
 
 - Diverse Formate der Wissenschaftskommunikation [@besa2024]
   + Kaum empirische Forschung zu nutzer:innenfreundliche Gestaltung von Wissenschaftskommunikation [z.B. @fitzgerald2022; @lortie2021; @merk2023]
@@ -512,7 +513,7 @@ title-slide-attributes:
 |![](img/CHU_Forschendes%20Lernen.png){.lightbox width="160" fig-align="left"}[@knogler2017]|![](img/Tüdibase_Gamification.png){.lightbox width="160" fig-align="left"}[@backfisch2021]|![](img/PM_virtuelles%20Klassenzimmer.png){.lightbox width="160" fig-align="left"}[@rijkhoek2019]|![](img/Welt_PISA.png){.lightbox width="160" fig-align="left"}[@michler2014]|
 </center>
 
-- ADD FORSCHUNGSSTAND
+- Verschiedene textliche und visuelle Darstellungen beeinflussen die Wahrnehmung und Einschätzung von Effektstärken
 
 <!-- ![](img/Paper_Retrieval%20practice.png){.lightbox width="160" fig-align="left"}[@adesope2017]|![](img/tagesschau.jpg){.lightbox width="100"}| -->
 
@@ -562,7 +563,7 @@ erneut Lehramtsstudierende mit unterschiedlichen (akademischen) Hintergründen.
 Diese 211 Studierende nahmen an folgendem Between-Person Experiment teil
 :::
 
-## Design, Materialien und Variablen {.smaller .scrollable}
+## Design, Materialien und Variablen {{< iconify ri:survey-line >}} {.smaller .scrollable}
 
 - Between-person Experiment mit fünf Experimentalbedingungen (1 = Effektstärke wird nicht präsentiert; 2 = kleine Effektstärke als Text; 3 = große Effektstärke als Text; 4 = kleine Effektstärke als BESD; 5 = große Effektstärke als BESD)
 
@@ -599,7 +600,7 @@ Kommen wir auch hier - zu den vorläufigen - Ergebnissen
 :::
 
 
-## Ergebnisse
+## Ergebnisse: Entscheidungsrating {{< iconify streamline-sharp:magnifying-glass >}}
 
 <center>![](img/Study-PSB_Abbildung_decision_rating.png){.lightbox width="700"}</center>
 
@@ -616,7 +617,7 @@ Kommen wir auch hier - zu den vorläufigen - Ergebnissen
 ::: 
 
 
-## Ergebnisse
+## Ergebnisse: Guestimation I {{< iconify  streamline-sharp:magnifying-glass >}}
 
 <center>![](img/Study-PSB_Abbildung_guestimation_POS.png){.lightbox width="700"}</center>
 
@@ -631,7 +632,7 @@ Ergänzende Note:
 - mit BESD akkurater, aber auch mehr, die die Richtung verwechseln
 ::: 
 
-## Ergebnisse
+## Ergebnisse: Guestimation II {{< iconify streamline-sharp:magnifying-glass >}}
 
 <center>![](img/Study-PSB_Abbildung_guestimation_LI.png){.lightbox}</center>
 
@@ -644,8 +645,7 @@ Ergänzende Note:
 
 ::: 
 
-## Vorläufige zentrale Ergebnisse
-
+## Zentrale (vorläufige) Erkenntnisse {{< iconify majesticons:lightbulb-shine-line >}}
 * Practical Significance Bias konnte unter Lehramtsstudierenden - deskriptiv - repliziert werden [@michal2024]
   + Je nach Operationalisierung (Entscheidungsrating vs. Guestimation) unterschiedlich stark ausgeprägt
   + Kommunizieren von Effektstärken als mögliche Gegenmaßnahme 
@@ -660,8 +660,6 @@ Ergänzende Note:
 ::: 
 
 ## Weitere Befunde zur Effektstärkenkommunikation {.smaller .scrollable}
-
-> Verschiedene textliche und visuelle Darstellungen beeinflussen die Wahrnehmung und Einschätzung von Effektstärken
 
 - Lehrpersonen differenzieren zwischen kleinen und großen Effektstärken [@merk2023; @kuhlwein2025]
 - Mit geeigneten Visualisierungen schätzen Lehrpersonen Effektgrößen erstaunlich akkurat ein (Darstellung von Streuung [@merk2023]; Annotationen [@schneider2024]) 
@@ -691,11 +689,8 @@ Zusatz:
 - Overlap etwas weniger Bias, aber immer noch gebiased
 ::: 
 
-## Diskussion {.smaller}
+## Fazit {{< iconify boxicons:discussion >}}
 
-* Förderung evidenzinformierter Handlungen komplexes Unterfangen, das sowohl weitere Forschung zur Professionalisierung der Lehrperson als auch zur Gestaltung von Wissenschaftskommunikation benötigt
-
-::: fragment
 * Interpretation eine notwendige, aber nicht hinreichende Bedingung für gelingendes evidenzinformiertes Handeln {{< iconify fluent:puzzle-cube-piece-20-filled size=50px >}}
 
 
@@ -706,7 +701,6 @@ Zusatz:
 Eigene Adaption des Prozessmodells nach @grossophoff2023
 
 </center>
-:::
 
 ::: notes
 - möchte nochmals herauszoomen
