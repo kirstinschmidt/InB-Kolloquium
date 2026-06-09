@@ -1,0 +1,724 @@
+---
+title: Wie gehen (angehende) Lehrpersonen mit wissenschaftlicher Evidenz um?
+subtitle: Ergebnisse aus verschiedenen experimentellen Studien
+author: Dr. Kirstin Schmidt
+footer: https:ADDLINK
+institute: Pädagogische Hochschule Karlsruhe | <br> Institut für Empirische Bildungsforschung
+logo: img/ph-logo.svg
+picture: img/KA.jpeg
+lang: de
+date-format: long
+format: rlille-revealjs
+filters:
+   - lightbox
+lightbox: auto
+self-contained: true
+bibliography: references.bib
+csl: apa.csl
+title-slide-attributes: 
+  data-notes: freue mich sehr über die Einladung und heute hier sein zu dürfen, danke für die nette Einführung
+---
+
+## Überblick {{< iconify tabler:list-filled >}} {.smaller .center}
+
+```{r }
+#| label: libraries
+#| echo: false
+
+# z.B. library(tidyverse)
+```
+
+- Evidenzinformierte Schulpraxis
+- Experimentelle Studien
+    - Studie 1: Confirmation Bias
+    - Studie 2: Practical Significance Bias?
+- Diskussion
+- Referenzen
+
+
+::: notes
+
+- habe mir sehr lange Gedanken gemacht, was für Sie/Euch interessant sein könnte 
+- eher neuere Studien ausgewählt
+- klassischer Aufbau, auch wenn nicht chronologisch
+
+:::
+
+## Informationsquellen {{< iconify entypo:documents >}} 
+
+::: .r-stack
+
+::: fragment
+<div style="position: absolute; top: 75px; left: 20px;">
+![Episodische Evidenz (Visualisierung erstellt mit Copilot)](img/Klassenzimmer.png){width="200"} 
+</div>
+
+
+::: 
+
+::: fragment
+<div style="position: absolute; top: 270px; right: 80px;">
+![Daten (Visualisierung aus QUOP; https://www.quop.de/de/start/)](img/Quop_Lernverlaufsdiagnostik.png){width="370"} </div>
+:::
+
+::: fragment
+<div style="position: absolute; top: 400px; left: 230px;">
+![Wissenschaftliche Evidenz [@adesope2017]](img/Paper_Retrieval%20practice.png){width="270"} 
+</div>
+:::
+
+:::
+  
+::: notes
+
+- professionelles Handeln von Lehrpersonen zeichnet sich u.a. dadurch aus, dass sie bei Entscheidungen auf geeignete Informationsquellen zurückgreifen
+
+- Für situative Entscheidungen kann episodische Evidenz wie z.B. eigene Erfahrungen nützlich sein
+  + welche/n Schüler:in rufe ich als nächstes auf (z.B. S., die/der die richtige Antwort mit hoher Wahrscheinlichkeit kennt; S., der/die sich grundsätzlich selten meldet)
+- um gezielte individuelle Unterstützungsmaßnahmen für SuS zu formulieren, Lernverlaufsdiagnostik hilfreich; kann Lehrperson die auf Daten zurückgreifen und dabei auf Daten zurückgreifen
+- wissenschaftliches Wissen hingegen kann Lehrpersonen in z.B. konzeptuelle Entscheidungen in der Unterrichtsplanung unterstützen
+  + z.B. um Studierende im Lernen zu unterstützen -> Probetest als Vorbereitung auf Klassenarbeit 
+
+- Rückgriff auf wissenschaftliche Evidenz wird als EISP
+:::
+  
+## Evidenzinformierte Schulpraxis {{< iconify fa-solid:school >}} {.smaller}
+
+::::::: columns
+:::: {.column width="50%"}
+
+![](img/Paper_Retrieval%20practice.png){width="90%" fig-align="center"}
+::::
+
+:::: {.column width="50%"}
+::: fragment
+<br> <br> <br> <br> Evidenz = systematisch gewonnene Information [z.B. @bromme2014; @shavelson2021; @doering2016]
+:::
+::::
+:::::::
+
+::: fragment
+<center>{{< iconify octicon:goal-16 >}} Steigerung der Professionalisierung von Lehrpersonen, der Schul- und Unterrichtsqualität und Schüler:innenleistung <br> [z.B. @bell2010; @double2020; @filderman2018; @coldwell2017; @kennedy2017]</center>
+:::
+
+::: notes
+
+- diese Festlegung kann beispielsweise kognitionspsychologisch begründet werden
+  + Evidenz ist im Vergleich zur eigenen Erfahrungen als objektivere Informationsquelle anzusehen -> Information wird systematisch nach bestimmten Kriterien gewonnen und ist dadurch weniger von kognitive Verzerrungen beeinflusst und eignet sich daher um fundierte Entscheidungen zu treffen 
+
+- Kompetenztheoretische Begründung
+ +  Kenntnisse wissenschaftlicher Theorien und Befunde ist Voraussetzung für erfolgreichen Unterricht (z.B. Baumert & Kunter, 2006)
+ + Diese Perspektive hat u.a. Eingang in die Standards zur Lehrerbildung gefunden (KMK, 2004, S. 289): »Lehrerinnen und Lehrer \[...\] nutzen Ergebnisse der Bildungsforschung für die eigene Tätigkeit«
+- Evidenz wird daher Potenzial zugeschrieben
+  + Professionalisierung von Lehrpersonen zu stärken
+  + Unterrichts- und Schulqualität
+  + letztlich Schüler:innenleistung zu steigern
+(- was auch mit ersten empirischen Studien belegt werden kann)
+
+
+
+
+:::
+
+## Idealtypischer Prozess evidenzinformierten Handelns {{< iconify fluent-mdl2:processing >}}{.smaller}
+
+<center>
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted.png){.lightbox width="50%" fig-align="center"}
+</center>
+
+::: fragment
+<center>
+[{{< iconify ion:warning >}}]{style="color:#96412D;"} Idealtypischer Prozess [{{< iconify material-symbols:arrows-outward >}}]{style="color:#96412D;"} Umsetzung durch Lehrpersonen [{{< iconify ion:warning >}}]{style="color:#96412D;"}
+</center>
+:::
+
+::: notes
+
+- um evidenzinformiert zu handeln, müssen L. allerdrings einen komplexen Prozess durchlaufen
+  + Anlass formulieren z.B. ein Problem, eine Weiterentwicklung
+  + Zugriffsphase passende wissenschaftliche Quellen recherchieren
+  + Evidenz sichten d.h. lesen und verstehen um in Schlussfolgerung zu Wissen zu kommen
+  + Wissen in der Anwendungsphase für die Praxis fruchtbar machen d.h. nutzen
+  + im Idealfall schließt sich noch eine Evaluation des Prozesses an
+
+- wie Sie sicherlich wissen: gibt es aber eine Kluft zwischen diesen theoretischen Implikationen und der tatsächlichen Praxis
+- Lehrpersonen greifen kaum auf Evidenz in ihrem professionellen Handeln zurück
+- stellt sich Frage nach Faktoren, die diesen Prozess erschweren oder erleichtern
+
+::: 
+
+## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
+
+
+> Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
+
+::: fragment
+<center>
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Zeit.png){.lightbox width="55%" fig-align="center"}
+</center>
+
+::: 
+
+
+::: notes
+- Blickt man in die Forschung zeigt sich, dass Einflussfaktoren sehr vielfältig sind und in den verschiedenen Phasen zum Tragen kommen 
+- je nach Ausprägung wirken sie als Katalysatoren oder Barrieren
+- ich möchte ein paar Beispiele geben
+  + häufige Barriere, die Lehrpersonen benenen ist die limitierte Zeit, die alle Phasen des Prozesses betrifft
+
+:::
+
+## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
+
+
+> Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
+
+<center>
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Zugänglichkeit.png){.lightbox width="55%" fig-align="center"}
+</center>
+
+
+::: notes
+
+- Zugänglichkeit der Evidenz: Knowledge Brokers wie Clearinghouses, die versuchen wissenschaftliche Evidenz für Praktiker:innen frei zugänglich zu machen
+
+:::
+
+
+## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
+
+
+> Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
+
+<center>
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Wissen.png){.lightbox width="55%" fig-align="center"}
+</center>
+
+
+::: notes
+- forschungsmethodisches Wissen von Lehrperson kann die Schlussfolgerungsphase erleichtern
+
+:::
+
+
+## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
+
+
+> Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
+
+<center>
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Aufbereitung.png){.lightbox width="55%" fig-align="center"}
+</center>
+
+::: notes
+- Aufbereitung der Evidenz oftmals Barriere: Forschungserkenntnisse häufig durch zahlreiche Fachbegriffe gekennzeichnet z.B. statistische Fachtermini schwer verständlich
+  + erschwert Schlussfolgerungs- und Anwendungsphase (z.B. konkrete Implikationen für Praxis gegeben) 
+    
+:::
+
+
+## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}} {.smaller}
+
+
+> Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
+
+<center>
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Überzeugungen.png){.lightbox width="55%" fig-align="center"}
+</center>
+
+::: notes
+
+- Außerdem verfügen Lehrpersonen oftmals über Überzegungen, die weniger Förderlich für evidenzinformierte Praxis sind z.B. Evidenz  als wenig nützlich für die Praxis eingeschätzt; Überzeugungen, die der Evidenz widersprechen
+  + ob Prozess überhaupt gestartet wird
+  + beeinflusst aber auch Schlussfolgerungs- und Anwendungsphase
+
+
+- sehr viel unterschiedliche Forschungsansätze in diesem Bereich 
+- zoomt man aus diesem Prozess heraus kann man diese verschiedenen Einflussfaktoren auch auf einer Metaebene systematisieren
+
+- die Katalysatoren und Barrieren können auch ...
+
+::: 
+
+## Katalysatoren und Barrieren {{< iconify solar:plus-minus-bold >}}{.smaller}
+
+
+> Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken, können der __Seite der Nutzenden__ oder der __Seite des Angebots__ zugeordnet werden [@schmidt2024]
+
+<center>
+![](img/Angebot-Nutzungsmodell.png){.lightbox width="50%" fig-align="center"}
+</center>
+
+::: notes
+... der Angebots oder Nutzenden-Seite zugeordnet werden
+
+- Nutzendenseite bezieht sich auf die Ausstattung der (angehenden) Lehrpersonen - evidenzinformiertes Handeln erleichtern
+  - bspw. über welche Überzeugungen Lehrpersonen verfügen
+  - oder ihr forschungsmethodisches Wissen
+- Angebot bezieht sich auf die wissenschaftliche Evidenz
+  - Aufbereitung durch Forschende oder sogenannte Knowledge Brokers wie Clearing Houses
+  - z.B. ihre Zugänglichkeit und ihre Aufbereitung
+- Zudem können sich beide Seiten gegenseitig beeinflussen
+  + Beispiel: Graph literacy könnte durch ein gut gemachtes Angebot mit z.B. Hervorhebungen, die die Aufmerksamkeit auf wichtige Infos lenkenerhöht werden
+- Daher kann man die Umsetzung EISP auch als Interaktion zwischen Angebot und Nutzung verstehen
+- mit dieser Heuristik auf unsere Forschungsstudien blicken
+
+::: 
+
+<!--
+
+# Nutzung
+
+::: notes
+
+
+:::
+
+--> 
+
+## Studie 1: Confirmation Bias vs. <br> Belief Updating *(Nutzung von Evidenz)*
+
+<br>
+
+<center>
+
+![](img/confbias_metapher.png){width="300"}
+
+[gemeinsam mit Samuel Merk]{style="font-size: .7em; display: block;"}
+
+</center>
+
+::: notes
+- starten mit der Nutzungsseite
+- Da evidenzwidrige Misskonzepte - insbesondere zu bildungswissenschaftlichen, pädagogisch psychologischen Themen weit verbreitet sind ...
+
+, eine Studie mitgebracht, in der wir untersucht haben wie Lehrpersonen Evidenz in Abhängigkeit Ihrer Überzeugungen beurteilen und was Evidenz mit ihren Überzeugungen macht
+
+
+:::
+
+## Bestätigungsfehler {.smaller}
+
+<!-- &#x2011; ist der "no linebreak hyphen" - sonst bleibt nur das Minus in der Zeile -->
+
+- Bestätigungsfehler (engl. *Confirmation Bias*) = Vorabüberzeugungen verzerren die Suche, Interpretation und Erinnerung von Informationen [e.g., @hart2009; @nickerson1998; @oswald2004; @stroud2017]
+  - Informationen, die **kongruent zu eigenen Überzeugungen** sind, werden bevorzugt, als valider wahrgenommen und schneller erinnert.
+  - Informationen, die **inkongruent zu eigenen Überzeugungen** sind, werden schneller abgewertet, hinterfragt, auf Fehler untersucht und schlechter erinnert.
+
+- Die Überzeugungen von (angehenden) Lehrpersonen beeinflussen...
+  - ... ihre Evaluation von wissenschaftlichen Studien [@masnick2009]
+  - ... ihr Vertrauen in bildungswissenschaftliche Aussagen [@schmidt2022]
+  - ... ihre Beurteilung der Aussagekraft bildungswissenschaftlicher Ergebnisse [@futterleib2022; @thomm2021a]
+  
+::: incremental
+- [{{< iconify fa7-solid:surprise >}}]{.imp2} Allerdings passen Studierende ihre Überzeugung an überzeugungs-inkongruente Evidenz an [@futterleib2022; @thomm2021a]
+:::
+
+
+::: notes
+
+- Bestätigungsfehler (ConfBias) zentrale Schlagwort
+- ConfBias meint, dass bereits bestehende Überzeugungen beeinflussen wie man Infos sucht, interpretiert und erinnert
+- Confbias hat verschiedene Komponenten - fokussiere mich jetzt auf das Interpretieren
+  + genauer, bedeutet ConfBias hier, dass man Informationen, die zur eigenen Überzeugung passen als valider/aussagekräftiger/überzeugender wahrnimmt
+  + wohingegen Infos, die nicht kongruent zu den eigenen Überzeugungen sind schneller abwertet, in Frage stellt
+  
+- viel Forschung zu ConfBias, die die Existenz belegt, aber im Bildungsbereich wenig Forschung, die in unterschiedliche Richtung deutet 
+  + wenige Studien deuten darauf hin, dass ConfBias den Umgang mit Evidenz beeinflussst
+  + um ein Beispiel zu geben: aktive Lehrpersonen vertrauen Aussagen aus der Bildungswissenschaft weniger, wennn diese inkongruent - also nicht passend - zu ihren Überzeugungen sind im Vergleich zu solchen, die zu ihren Überzeugungen passen
+  + Aber überraschenderweise zeigen zwei Studien, dass Lehramststudierende dennoch ihre Überzeugungen an die überzeugungswidrige Evidenz anpassen
+  
+- Daher wollten wir sehen, inwieweit wir diese Diskrepnz zwischen verzerrter Beurteilung der Evidenz und Belief-Updating konzeptuell replizieren können
+   
+  
+::: 
+
+## Forschungsfragen {.smaller}
+
+**Forschungsfrage 1:** Inwieweit beeinflusst die (In)Kongruenz zwischen Überzeugungen und Evidenz Lehramtsstudierende in ihrer Bewertung von Studienergebnissen?
+
+<br>
+
+**Forschungsfrage 2:** Inwieweit passen Lehramtsstudierende ihre Überzeugungen an die Evidenz an?
+
+<br>
+
+**Forschungsfrage 3:** Inwieweit beeinflusst die (In)Kongruenz zwischen Überzeugungen und Evidenz Lehramtsstudierende in ihrer Überzeugungssicherheit?
+
+::: notes
+
+- Daher haben wir folgende Forschungsfragen aufgestellt. Inwieweit ...
+ 1) ... beeinflusst die (In)Kongruenz zwischen Überzeugung und Evidenz Lehramtsstudierende in ihrer Beurteilung der Studienergebnisse?
+ 2) ...  sie Ihre Überzeugung - also die Richtung der Überzeugung - an die Evidenz anpassen?
+ 3) ... die (In)Kongruenz der Überzeugung und Evidenz Lehramtsstudierende in Ihrer Überzeugungssicherheit beeinflusst - wenn Sie die Überzeugungsrichtung nicht ändern?
+::: 
+
+## Stichprobe {{< iconify fa6-solid users>}} {.smaller}
+
+- *N* = 526 Lehramtsstudierende
+- 83,08 % der Studierende sind weiblich
+- 68,25 % der Studierende sind im zweiten Semester
+- 67,11 % der Studierende studieren Lehramt der Primarstufe
+- 57,98 % der Studierenden studieren mindestens ein Fach im sprachlichen Bereich
+- 61,03 % aller Studierende sind zu Beginn der Studie davon überzeugt, dass die Verwendung der rein männlichen Form zu keiner überproportionalen Assoziation mit männlichen Schülern führt.
+
+::: notes
+
+- 526 Lehramtsstudierende mit unterschiedlichen Hintergründen - auch akademischen Hintergründen
+
+::: 
+
+## Design, Materialien und Variablen {.smaller .scrollable}
+
+- Between-person Design mit dem 2-stufigen Experimentalfaktor *(In)kongruenz zwischen Überzeugung und Evidenz*
+
+- Thema "Gendergerechte Sprache in der Schule"
+
+  <center>![](img/Study-Confbias_Beispielvignette.png){.lightbox width="600"}</center>
+
+- Abhängige Variablen
+
+  - *Überzeugungsrichtung*: <br>![](img/Study-Confbias_Überzeugungsrichtung.png){.lightbox width="500"}
+  - *Überzeugungssicherheit*: <br> ![](img/Study-Confbias_Überzeugungssicherheit.png){.lightbox width="500"}
+  - *Beurteilung der Studie*: <br> ![](img/Study-Confbias_Studienqualität.png){.lightbox width="500"}
+
+
+::: notes
+
+- unser Experiment war ein between-person Experiment und durch das Thema gendergerechte Sprache in der Schule gerahmt, in dem die Frage im Vordergrund stand, ob das generische Maskulinum zu einer überproportionalen Assoziation mit männlichen Schülern führt - male bias
+- erst haben die Studierende ihre Überzeugung zu diesem Thema angeklickt
+- und abhängig von Ihrer Überzeugung, wurden sie dann danach gefragt wie sicher sie sich sind
+- dann erhielten die Teilnehmenden einen solchen Forschungsbericht, in dem eine experimentelle Studie zum Thema male bias vorgestellt wurde. Dieser Forschungsbericht war immer gleich aufgebaut, varrierte allerdings zufällig darin, ober die Studie die Existenz des male bias stütze oder nicht. Kurz FF nennen
+  + Unsere experimentelle Manipulation basierte auf der Kombi aus  Studienvignetten und der Angabe der Überzeugungsrichtung und bildete die Variable (In)-Kongruenz aus Überzeugung und Evidenz. D.h. die Vignette selbst war nicht per se überzeugungsinkongruent oder überzeugungskongruent, sondern erst im Zusammenspiel mit der Angabe der Überzeugung
+  + Beispiel: Person ist nicht davon überzeugt, dass es einen male bias gibt, sollte überzeugungsinkongruente Evidenz erhalten, dann diesen Forschungsbericht mit dem Ergebniss, das mehr männliche als weibliche Vornamen. Alternativ eine Person, die von der Existenz des male bias überzeugt ist und überzeugungskongruente Evidenz erhalten soll, ebenfalls diesen Forschungsbericht.
+
+- Nach dem Lesen sollten die Studierenden die Studie beurteilen - auf einer fünfstufigen Likert-Skala wie überzeugend sie das Studienergebnis fanden
+- und zum zweiten Mal Überzeugungsrichtung und Sicherheit angeben
+
+- kommen wir zu den Ergebnissen
+
+::: 
+
+## Ergebnisse: Beurteilung der Studie
+
+<center>![](img/ConfBias-Abbildung_1.png){.lightbox}</center>
+
+<!-- Farbe anpassen in Visualisierung -->
+
+
+::: notes
+
+- nun zur ersten FF, inwieweit die (In)Kongruenz zwischen Überzeugung und Evidenz die Beurteilung der Studienergebnisse durch Lehramtsstudierende beeinflussen
+- Visualisierung: x- und y-Achse Erklären 
+  + Lehramtsstudierende, die mit überzeugungskongruenten Ergebnissen konfrotniert sind, schätzen die Ergebnisse überzeugender ein als diejenigen, die überzeugungsinkongruente Ergebnisse sichten
+  + große Effekt - mit Bayesianischer Inferenzstatistik abgesichert
+
+::: 
+
+## Ergebnisse: Updating der Überzeugungsrichtung
+
+<center>![](img/ConfBias-Abbildung_2.png){.lightbox}</center>
+
+<!-- Anpassen: kongruent statt konsistent-->
+
+::: notes
+
+- nun zur Forschungsfrage 2 und zum Updating der Überzeugungsrichtung
+- in den zwei Teilgrafiken sehen sie die zwei Experimentalgruppen
+- hellgrün hinterlegt markiert alle Studierenden, die bei ihrer Überzeugung bleiben und dunkelgrün, diejenigen die Ihre Überzegung updaten
+  + Beispiel, 133 Studierende, die vor Sichtung der Evidenz davon überzeugt waren, dass Male Bias nicht existiert - Prä-Überzeugung = 2, bleiben auch nach Sichtung überzeugungsinkongruenter Evidenz dabei, dass ein solcher Bias niucht existiert
+  + Umgekehrt 27 Personen, die eingangs dachten, dass male bias nicht existiert, passten ihre Überzeugung an die Evidenz an, d.h. nach Sichtung sind sie überzeugt, dass Male Bias existiert 
+- ADD INFOS ZUR EVIDENZ
+
+:::
+
+## Ergebnisse: Updating Überzeugungssicherheit {.smaller}
+
+<center>![](img/ConfBias-Abbildung_3a.png){.lightbox width="800"}</center>
+
+<!-- Farbe anpassen in Visualisierung -->
+
+
+::: notes
+
+- Fokussiert man die Forschungsfrage 3, können wir deskriptiv sehen, dass Lehrpersonen, die überzeugungskongruente Evidenz sichten, stärker an ihrer Vorabüberzeugung festhalten
+- Studierende, die überzeugungsinkongruente Evidenz sichten, ihre Überzeugungsrichtung nicht geändert haben, sind aber weniger sicher in ihre Überzeugung 
+- moderater/kleiner Effekte, inferenzstatistisch abgesichert
+
+:::
+
+
+## Zentrale Erkenntnisse
+
+- Lehramtsstudierende beurteilen wissenschaftliche Evidenz basierend auf ihren Überzeugungen
+- Lehramtsstudierende, die überzeugungsinkongruente Evidenz lesen, passen nicht ihre Überzeugungsrichtung, aber ihre Überzeugungssicherheit an
+  + Lehramtsstudierende scheinen nicht unreflektiert an ihren Überzeugungen festzuhalten
+  + Grad der Anpassung könnte von verschiedenen Faktoren (z.B. Thema, Anzahl an Forschungsberichten) abhängen
+  
+::: notes
+
+- zusammenfassend: Diskrepanz konzeptuell repliziert
+- Lehrpersonen beurteilen Evidenz unterschiedlich je nachdem ob diese ihrer Überzeugung entspricht oder widerspricht. Barrier für EIP -> Umgang mit Evidenz nicht automatisch informiertere Entscheidungen
+  + Ziel: Lehramtsstudierende in Evaluation von Evidenz unterstützen, um Einfluss der Überzeugungen zu reduzieren 
+- in unserer Studie kaum - vernachlässigbare - Anpassung ihrer Überzeugungsrichtung, aber Überzeugungssicherheit verändert sich nach Sichtung der Evidenz
+    + scheinen also auch bei uns nicht "unreflektiert" an Überzeugung festzuhalten
+    + Unterschied zu bisherigen Studien: wir haben nur eine Studie präsentiert, vorher verschiedene Studien zum gleichen Thema
+    + möglicherweise Grad des Updating von verschiedenen Faktoren - wie Anzahl der Studien, Thema selbst - abhängig
+    + zentrale Fragestellung: was ist eigentlich eine angemessene Reaktion nach Sichtung der Evidenz, denn wir verfolgen auch nicht das Ziel, dass blind in Forschung vertraut wird 
+    
+- mit dieser Frage die Perspektive wechseln / zur anderen Seite der Medaille 
+
+::: 
+
+<!--
+
+# Angebot{.smaller .scrollable}
+
+
+::: notes
+
+- Angebot, genauer Gestaltung von WK
+- eine aktuelle Studie mitgebracht, deren Datenerhebung noch läuft 
+
+::: 
+
+--> 
+
+## Studie 2: Practical Significance Bias? <br> *(Angebot von Evidenz)*
+
+<br>
+<center>![](img/PSB_metapher.png){width="500"}</center>
+
+<center>gemeinsam mit Samuel Merk und Florian Kühlwein</center>
+
+::: notes
+- Angebot, genauer Gestaltung von WK
+- eine aktuelle Studie mitgebracht, deren Datenerhebung noch läuft 
+- untersuchen, wie Forschungsergebnisse kommuniziert werden sollen, genauer ob Effektstärke kommuniziert werden sollten
+- Fokus auf quantitative Studien - soll aber nicht abstreiten, dass Evidenz auch durch qualitative Studien gewonnen wird
+
+::: 
+
+
+## Kommunikation von Forschungsergebnissen {.smaller .scrollable}
+
+- Diverse Formate der Wissenschaftskommunikation [@besa2024]
+  + Kaum empirische Forschung zu nutzer:innenfreundliche Gestaltung von Wissenschaftskommunikation [z.B. @fitzgerald2022; @lortie2021; @merk2023]
+  + Diverse Darstellungsweisen der Forschungsergebnisse: 
+
+<center> 
+| | | | |
+|--|--|--|--|
+|![](img/CHU_Forschendes%20Lernen.png){.lightbox width="160" fig-align="left"}[@knogler2017]|![](img/Tüdibase_Gamification.png){.lightbox width="160" fig-align="left"}[@backfisch2021]|![](img/PM_virtuelles%20Klassenzimmer.png){.lightbox width="160" fig-align="left"}[@rijkhoek2019]|![](img/Welt_PISA.png){.lightbox width="160" fig-align="left"}[@michler2014]|
+</center>
+
+- ADD FORSCHUNGSSTAND
+
+<!-- ![](img/Paper_Retrieval%20practice.png){.lightbox width="160" fig-align="left"}[@adesope2017]|![](img/tagesschau.jpg){.lightbox width="100"}| -->
+
+::: notes
+- zunächst zum Hintergrund
+- Wenn man sich aktuell die Landschaft der Wissenschaftskommunikation anschaut sehr divers
+  + von XXX bis hin zu knowledge broker wie CH
+  + allerdings kaum empirische Forschung, die untersucht wie WK wirklich gelingen kann also Forschungsergebnisse für die Zielgruppe der Lehrpersonen informativ, praktisch relevant aber dennoch verständlich darzustellen
+  + viele ganz unterschiedliche Ansätze
+    - Clearinghouses: Effektstärken berichtet z.B. Cohen's d als numerischer Wert, andere eine Transformation von Cohen's d, sogenannte Cohen's U3 - verbal, aber auch visuel
+    - In Pressemitteilungen oder Abstracts aus Originalstudien  gar keine Information über Effektstärke z.B.  nur die Rede von "Schüler:innen in der vorderen Sitzreihe lösen Matheaufgaben schneller als in der hinteren Sitzteihe" oder " practice tests are more beneficial for learning than restudying and all other comparison conditions"
+    - Zeitungsartikel: Effektgröße im Sinne von Mittelwertsunterschieden, aber ohne Information über Streuung, also keine sogenannten standardisierten Effekt
+
+- Studie bei Laien zeigt, dass fehlende Information von Effektstärken dazu führt, dass automatisch ein großer Effekt assoziiert wird - sogenannten practical significance bias - und bisherige Studien zeigen, dass es Lehrpeson unter geeigneten Darstellung relativ gut gelingt Effektstärken einzuschätzen, Studie erweitert replizieren
+
+::: 
+
+## Forschungsfrage {{< iconify fa6-solid circle-question >}}
+
+**Forschungsfrage 1:** Inwieweit weisen Lehramtsstudierende beim Rezipieren von Evidenz einen Practical Significance Bias auf?
+
+<br>
+
+[***Forschungsfrage 2:** Inwieweit führen sogenannte Binomial Effect Size Displays (BESD) zu genaueren Einschätzungen der Evidenz?*]{style="color:lightgrey;"}
+
+
+::: notes
+
+- um herauszufinden, inwieweit auch Lehramtsstudierende einem PSB unterliegen
+- und zudem wollten wir ein bestimmtes Kommunikationsformat sogenannte BESD evaluieren, inweiweit diese visuelle Darstellung der Effektstärke die Einschätzungen verbessert; aufgrund der Zeit diese Fragestellung aber auslassen
+
+
+:::
+
+## Stichprobe {{< iconify fa6-solid users>}}
+
+- *N* = 211 Lehramtsstudierende
+- 68,25 % der Studierende sind weiblich und studieren im zweiten Semester
+- 53,55 % der Studierende studieren Lehramt der Primarstufe
+- 46,92 % der Studierende studieren mindestens ein Fach im sprachlichen Bereich
+
+
+::: notes
+
+erneut Lehramtsstudierende mit unterschiedlichen (akademischen) Hintergründen.
+
+Diese 211 Studierende nahmen an folgendem Between-Person Experiment teil
+:::
+
+## Design, Materialien und Variablen {.smaller .scrollable}
+
+- Between-person Experiment mit fünf Experimentalbedingungen (1 = Effektstärke wird nicht präsentiert; 2 = kleine Effektstärke als Text; 3 = große Effektstärke als Text; 4 = kleine Effektstärke als BESD; 5 = große Effektstärke als BESD)
+
+<center>![](img/Study-PSB_no-effect-size-presented.png){.lightbox group="my-gallery" width="300"}</center>
+
+::: {style="display:none"}
+![](img/Study-PSB_small-effect-size_no-BESD.png){.lightbox group="my-gallery" width="300"} ![](img/Study-PSB_small-effect-size_with-BESD.png){.lightbox group="my-gallery" width="300"}
+:::
+
+- Abhängige Variablen:
+  - *Entscheidungsrating*: <br> ![](img/Study-PSB_Entscheidungsrating.png){.lightbox width="400"}
+  - *Guestimation der Effektstärke:*
+
+|  |  |
+|-----------------------------------:|:-----------------------------------|
+| Probability of Superiority ![](img/Study-PSB_Guestimation-POS.png){.lightbox width="500"} | Likert-Item ![](img/Study-PSB_Guestimation-LI.png){.lightbox width="400"} |
+
+
+::: notes
+- Alle Studierenden erhielten einen solchen Ausschnitt zur Mathekompetenz bei Grundschulkindern. Forscher:innen das alte Curriculum mit einem neuen Vergleichen 
+  + dieser Bericht unterscheided sich zufällig darin, wie die Ergebnisse dargestellt werden
+    + wie hier keine Effektstärke
+    + kleine Effektstärke verbal (wie im Orignal)
+    + oder erweitert um unsere BESD-Darstellung - aber wie gesagt für heute weniger wichtig
+    + beides auch für große Effekte statt 27, 35%
+- Studierenden sollten dann ein Entscheidungsrating abgeben, auf einer Skala von 0 bis 100 inwieweit sie dem Schulbezirk empfehlen würden das neue Curriculum einzusetzen
+- ergänzend zur Originalstudie noch die Einschätzung der Effektstärke abgefragt
+  + angelehnt an die sogenannte POS, indem sie angeben sollten wie wahrscheinlich es ist, dass ein zufällig ausgewählte Schülerin, die die Regelstandard erreicht hat, mit dem neuen Curriculum unterrichtet wurde
+  + Likert-Item
+- zusätzlich Ihre Entscheidung begründen (noch nicht ausgewertet)
+
+
+Kommen wir auch hier - zu den vorläufigen - Ergebnissen
+:::
+
+
+## Ergebnisse
+
+<center>![](img/Study-PSB_Abbildung_decision_rating.png){.lightbox width="700"}</center>
+
+
+::: notes
+
+- Schauen wir uns zunächst das Entscheidungsrating an, also inwieweit sie das neue Curriculum empfehlen würden
+  + x-Achse Rating
+  - y-Achse verschiedenen Experimentalgruppen
+- wir sehen zunächst erstmal, dasss Lehrpersonen Curriculum im Durchschnitt eher empfehlen würden, wenn großer, statt kleiner Effekt dargestellt wird
+- wir sehen aber auch, dass es kaum einen Unterschied zwischen denjenigen gibt, die einen großen Effekt vs. keine Effektgröße sehen, könnte man also deskriptiv als PSB deuten
+- Bayesianische Analysen noch inkonklusiv, aber konklusiv, dass es einen Unterschied zu den small-effect Bedingungen gibt.
+
+::: 
+
+
+## Ergebnisse
+
+<center>![](img/Study-PSB_Abbildung_guestimation_POS.png){.lightbox width="700"}</center>
+
+::: notes
+
+- hinsichtlich der Einschätzung der Effektstärke, deskriptiv weniger unterschiedlich könnte man sagen
+- Einschätzungen sind ohne Angaben zur Effektstärke etwas geringer als bei große Effektstärke (Text), ähnlich zu große Effektstärke BESD, aber durchschnittlich größer als bei kleiner Effekt.
+
+
+Ergänzende Note:
+
+- mit BESD akkurater, aber auch mehr, die die Richtung verwechseln
+::: 
+
+## Ergebnisse
+
+<center>![](img/Study-PSB_Abbildung_guestimation_LI.png){.lightbox}</center>
+
+
+::: notes
+
+- weitere Operationalisierung: Ergebnisse des Likeritems
+- Fokus auf letzten Subplot: keine Effektstärke: eher mittlerer und großer Unterschied
+
+
+::: 
+
+## Vorläufige zentrale Ergebnisse
+
+* Practical Significance Bias konnte unter Lehramtsstudierenden - deskriptiv - repliziert werden [@michal2024]
+  + Je nach Operationalisierung (Entscheidungsrating vs. Guestimation) unterschiedlich stark ausgeprägt
+  + Kommunizieren von Effektstärken als mögliche Gegenmaßnahme 
+
+::: notes
+- zusammengefasst deuten die ersten Analysen also darauf hin, dass sich der PSB nach Audrey Michal bei Lehramtsstudierenden replizieren lässt, aber je nach Operationalisierung/Stimuli unterschiedlich stark ausgeprägt ist (Idee thinking fast/slow)
+- gleichzeitig auch Gegenmaßnahme deutlich: Kommunizieren von Effektstärke
+  + bisheriger Forschungsstand aber eklektisch 
+  + Titel Ergebnisse aus verschiedenen experimentellen Studien angekündigt, daher noch Überblick weitere Forschungsbefunde aus unserer AG
+
+
+::: 
+
+## Weitere Befunde zur Effektstärkenkommunikation {.smaller .scrollable}
+
+> Verschiedene textliche und visuelle Darstellungen beeinflussen die Wahrnehmung und Einschätzung von Effektstärken
+
+- Lehrpersonen differenzieren zwischen kleinen und großen Effektstärken [@merk2023; @kuhlwein2025]
+- Mit geeigneten Visualisierungen schätzen Lehrpersonen Effektgrößen erstaunlich akkurat ein (Darstellung von Streuung [@merk2023]; Annotationen [@schneider2024]) 
+- __Text und Bild scheinen komplementäre Vor- und Nachteile zu haben__: Lehrpersonen nehmen Cohen's U3-Formulierungen beispielsweise informativer wahr, schätzen aber visuelle Effektstärkendarstellung (Halfeye-Plots) genauer ein [@kuhlwein2025]
+
+|||
+|--|--|
+|![](img/Study-Text-Viz_Informativeness.png){.lightbox width="100"}|![](img/Study-Text-Viz_Accuracy1.png){.lightbox width="100"}|
+
+- ***Common** Language Effect Size* $\nRightarrow$ ***Widely Understood** Effect Size*: 
+  + Lehrpersonen weisen Fehlkonzepte z.B. in der Interpretation von Cohens' U3 auf  [z.B. @kuhlwein2025; @schmidt2023; @schneider2024]
+  + Lehrpersonen haben (teilweise) Schwierigkeiten Informationen über Effektstärken und Inferenzstatistiken voneinander zu trennen [z.B. @schmidt2023] 
+<center> ![](img/study1_interpretation_product_plot_korrekt.png){.lightbox width="150"} </center>
+
+::: notes 
+
+- grundsätzlich: verschiedene textliche und visuelle Darstellungen beeinflussen die Wahrnehmung und Einschätzung von Effektstärken 
+- weiteres Argument für Effsize: Lehrpersonen können zwischen großen und kleinen Effekten unterscheiden
+- gerade mit geeigneten Visualisierungen z.B. neben Infos zur MW auch Streuung oder zusätzliche Annotationen gelingt es ihnen auch Effektsize erstaunlich akkurat einzuschätzen
+- ABER Visualisierungen und Text scheinen komplementäre Vor-und Nachteile zu haben: Viz akkuratere Einschätzungen, aber Text informativer, leichter verständlich (etwas informativer -> relevanter für die Prayis)
+- In Literatur spricht man von common language effect sizes / translated effect sizes, um Effektgröße leichter verständlich aufzubereiten, aber bedeutet nicht gleich weit verständliche Effektstärke, 
+  + z.B. viele Fehlkonzepte bei U3
+  + trotzdem Schwierigkeiten zwischen Effsize und U3 zu unterscheiden (Anmerkung Disentangling -> Paralellität zu PSB)
+- neue Studie deutet darauf hin, dass BESD ein Ansatz sein könnte 
+
+Zusatz:
+- Overlap etwas weniger Bias, aber immer noch gebiased
+::: 
+
+## Diskussion {.smaller}
+
+* Förderung evidenzinformierter Handlungen komplexes Unterfangen, das sowohl weitere Forschung zur Professionalisierung der Lehrperson als auch zur Gestaltung von Wissenschaftskommunikation benötigt
+
+::: fragment
+* Interpretation eine notwendige, aber nicht hinreichende Bedingung für gelingendes evidenzinformiertes Handeln {{< iconify fluent:puzzle-cube-piece-20-filled size=50px >}}
+
+
+<center>
+
+![](img/Groß_Ophoff%20et%20al%20(2023)_adapted_barriers_black.png){.lightbox width="400"} <br>
+
+Eigene Adaption des Prozessmodells nach @grossophoff2023
+
+</center>
+:::
+
+::: notes
+- möchte nochmals herauszoomen
+- deutlich gemacht, dass trotz der Vorarbeiten es noch viel zu tun gibt
+  + z.B. auch die Frage gestellt, was die Handlungen stärker prädiziert (Kompetenz oder Überzeugung)
+  + vor allem auch weitere Forschung die einen Schritt weiter geht 
+-die Interpretation von statistischen Informationen zwar notwendig, aber nicht hinreichend für gelingedes evidenzinformiertes Handeln
+    -   sie ist nur ein Faktor, der z.B. neben Überzeugungen, die Schlussfolgerung beeinflusst
+    -   und insgesamt ist die Schlussfolgerungsphase wiederum nur ein kleines Puzzleteil eines komplexen Prozesses
+
+:::
+
+
+
+## Referenzen
