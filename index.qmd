@@ -209,7 +209,7 @@ title-slide-attributes:
 > Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
 
 <center>
-![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Aufbereitung.png){.lightbox width="55%" fig-align="center"}
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_Evidenzaufbereitung.png){.lightbox width="55%" fig-align="center"}
 </center>
 
 ::: notes
@@ -225,7 +225,7 @@ title-slide-attributes:
 > Verschiedene Einflussfaktoren, die je nach Ausprägung als Katalysatoren oder Barrieren wirken [vgl. z.B. systematische Reviews von @dagenais2012; @hemsley-brown2003; @schmidt2024; @schaik2018]
 
 <center>
-![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_adapted_Überzeugungen.png){.lightbox width="55%" fig-align="center"}
+![Schmidt (2024) adaptiert von Groß Ophoff et al. (2023)](img/Groß_Ophoff et al (2023)_Überzeugungen.png){.lightbox width="55%" fig-align="center"}
 </center>
 
 ::: notes
@@ -513,7 +513,10 @@ title-slide-attributes:
 |![](img/CHU_Forschendes%20Lernen.png){.lightbox width="160" fig-align="left"}[@knogler2017]|![](img/Tüdibase_Gamification.png){.lightbox width="160" fig-align="left"}[@backfisch2021]|![](img/PM_virtuelles%20Klassenzimmer.png){.lightbox width="160" fig-align="left"}[@rijkhoek2019]|![](img/Welt_PISA.png){.lightbox width="160" fig-align="left"}[@michler2014]|
 </center>
 
-- Verschiedene textliche und visuelle Darstellungen beeinflussen die Wahrnehmung und Einschätzung von Effektstärken
+- Verschiedene textliche und visuelle Darstellungen beeinflussen die Wahrnehmung und Einschätzung von Effektstärken durch (angehende) Lehrpersonen [z.B. @schmidt2023; @merk2023; @kuehlwein2025; @schneider2024]
+  + Lehrpersonen haben (teilweise) Schwierigkeiten Informationen über Effektstärken und Inferenzstatistiken voneinander zu trennen [z.B. @schmidt2023] 
+  + Lehrpersonen weisen Fehlkonzepte z.B. in der Interpretation von Cohens' U3 auf  [z.B. @kuhlwein2025; @schmidt2023; @schneider2024]
+  + Statistische Laien assoziieren automatisch große Effekte, wenn in Forschungsberichten Informationen über Effektstärken fehlen [@michal2024]
 
 <!-- ![](img/Paper_Retrieval%20practice.png){.lightbox width="160" fig-align="left"}[@adesope2017]|![](img/tagesschau.jpg){.lightbox width="100"}| -->
 
