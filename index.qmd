@@ -2,7 +2,7 @@
 title: Wie gehen (angehende) Lehrpersonen mit wissenschaftlicher Evidenz um?
 subtitle: Ergebnisse aus verschiedenen experimentellen Studien
 author: Dr. Kirstin Schmidt
-footer: https://kirstinschmidt.github.io/InB-Kolloquium/
+footer: Folien cc-by unter https://kirstinschmidt.github.io/InB-Kolloquium/
 institute: Pädagogische Hochschule Karlsruhe | <br> Institut für Empirische Bildungsforschung
 logo: img/ph-logo.svg
 picture: img/KA.jpeg
@@ -647,7 +647,7 @@ Zusatz:
 
 ## Limitation {{< iconify boxicons:discussion >}}
 
-* Interpretation eine notwendige, aber nicht hinreichende Bedingung für gelingendes evidenzinformiertes Handeln {{< iconify fluent:puzzle-cube-piece-20-filled size=50px >}}
+> Interpretation eine notwendige, aber nicht hinreichende Bedingung für gelingendes evidenzinformiertes Handeln {{< iconify fluent:puzzle-cube-piece-20-filled size=50px >}}
 
 
 <center>
