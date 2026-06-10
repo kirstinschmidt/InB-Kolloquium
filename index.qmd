@@ -472,7 +472,7 @@ title-slide-attributes:
     - In Pressemitteilungen oder Abstracts aus Originalstudien  gar keine Information über Effektstärke z.B.  nur die Rede von "Schüler:innen in der vorderen Sitzreihe lösen Matheaufgaben schneller als in der hinteren Sitzteihe" 
     - Zeitungsartikel: Effektgröße im Sinne von Mittelwertsunterschieden, aber ohne Information über Streuung, also keine sogenannten standardisierten Effekt
   + Die wenige Forschung, die existiert zeigt, dass unterschiedliche Darstellung unterschiedlich wahrgenommen und eingeschätzt werden 
-  + hervorheben mnöchte ich vor allem ein Ergebnis nämlich, dass eine neuere Studie zeigt, dass fehlende Information von Effektstärken dazu führt, dass automatisch ein großer Effekt assoziiert wird - sogenannten practical significance bias - und bisherige Studien zeigen, dass es Lehrpeson unter geeigneten Darstellung relativ gut gelingt Effektstärken einzuschätzen, Studie erweitert replizieren
+  + hervorheben mnöchte ich vor allem ein Ergebnis nämlich, dass eine neuere Studie zeigt, dass fehlende Information von Effektstärken dazu führt, dass automatisch ein großer Effekt assoziiert wird - sogenannten practical significance bias; Studie erweitert replizieren
 
 ::: 
 
